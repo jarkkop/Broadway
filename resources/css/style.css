@@ -6,15 +6,21 @@ body {
 h1 {
   font-size: 70px;
   font-weight: bold;
-  color: black;
+  color: white;
 }
 
-div {
-  background-image: url("./resources/images/the-flatiron-building.png");
+.page_header  {
+  background-image: url("../../resources/images/the-flatiron-building.png");
 }
 
 ul {
-  font-size: 18px;
+    font-size: 18px;
+    line-height:175%;
     list-style-type:none;
 
+}
+
+.page_header a {
+
+    color: white;
 }
