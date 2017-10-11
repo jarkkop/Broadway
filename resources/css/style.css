@@ -28,8 +28,7 @@ p {
 }
 
 .place  {
-  
-      background-image: url("../../resources/images/the-flatiron-building.png");
+  background-image: url("../../resources/images/the-flatiron-building.png");
   justify-content: center;
   color: white;
 }
@@ -42,4 +41,11 @@ ul {
 
 .page_header a {
     color: white;
+}
+
+.footer  {
+    text-align:left;
+    font-size: 11px;
+    color: white;
+    background-color: dimgray;
 }
